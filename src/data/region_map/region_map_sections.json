@@ -1234,6 +1234,10 @@
     {
       "id": "MAPSEC_New_Bark_Town",
       "name": "New Bark Town"
+    },
+    {
+      "id": "MAPSEC_ROUTE_29",
+      "name": "Route 29"
     }
   ]
 }
