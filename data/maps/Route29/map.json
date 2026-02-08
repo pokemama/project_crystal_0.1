@@ -15,12 +15,12 @@
   "connections": [
     {
       "map": "MAP_NEW_BARK_TOWN",
-      "offset": 0,
+      "offset": 2,
       "direction": "right"
     },
     {
       "map": "MAP_CHERRYGROVE_CITY",
-      "offset": 0,
+      "offset": 2,
       "direction": "left"
     }
   ],

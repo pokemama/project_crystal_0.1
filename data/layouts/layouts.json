@@ -4425,7 +4425,7 @@
       "id": "LAYOUT_ROUTE29",
       "name": "Route29_Layout",
       "width": 54,
-      "height": 22,
+      "height": 24,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route29/border.bin",
