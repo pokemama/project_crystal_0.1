@@ -205,41 +205,34 @@
 #define METATILE_Fortree_WoodBridge1_Top                   0x297
 
 // gTileset_General
-#define METATILE_General_BlueCaveIndent        0x1B0
-#define METATILE_General_BlueCaveOpen          0x097
-#define METATILE_General_CalmWater             0x170
-#define METATILE_General_CaveEntrance_Bottom   0x0A7
-#define METATILE_General_CaveEntrance_Top      0x09F
-#define METATILE_General_Door                  0x021
-#define METATILE_General_Door_Contest          0x1DB
-#define METATILE_General_Door_Gym              0x1CD
-#define METATILE_General_Door_PokeCenter       0x061
-#define METATILE_General_Door_PokeMart         0x02A
-#define METATILE_General_Grass                 0x001
-#define METATILE_General_Grass_TreeLeft        0x1CE
-#define METATILE_General_Grass_TreeRight       0x1CF
-#define METATILE_General_Grass_TreeUp          0x00E
-#define METATILE_General_LongGrass             0x015
-#define METATILE_General_MuddySlope_Frame0     0x0E8
-#define METATILE_General_MuddySlope_Frame1     0x0E9
-#define METATILE_General_MuddySlope_Frame2     0x0EA
-#define METATILE_General_MuddySlope_Frame3     0x0EB
-#define METATILE_General_RedCaveIndent         0x1A0
-#define METATILE_General_ReflectiveWater       0x0D1
-#define METATILE_General_RockWall_GrassBase    0x079
-#define METATILE_General_RockWall_RockBase     0x07C
-#define METATILE_General_RockWall_SandBase     0x091
-#define METATILE_General_RoughDeepWater        0x14F
-#define METATILE_General_RoughWater            0x14E
+#define METATILE_General_CalmWater             0x06C
+#define METATILE_General_CaveEntrance_Bottom   0x039
+#define METATILE_General_CaveEntrance_Top      0x031
+#define METATILE_General_Door_PokeCenter       0x021
+#define METATILE_General_Door_PokeMart         0x001
+#define METATILE_General_Grass                 0x005
+#define METATILE_General_Grass_TreeLeft        0x029
+#define METATILE_General_Grass_TreeRight       0x1B2
+#define METATILE_General_Grass_TreeUp          0x006
+#define METATILE_General_LongGrass             0x036
+#define METATILE_General_MuddySlope_Frame0     0x1D0
+#define METATILE_General_MuddySlope_Frame1     0x1D1
+#define METATILE_General_MuddySlope_Frame2     0x1D2
+#define METATILE_General_RedCaveOpen           0x18C
+#define METATILE_General_ReflectiveWater       0x0D9
+#define METATILE_General_RockWall_GrassBase    0x059
+#define METATILE_General_RockWall_RockBase     0x071
+#define METATILE_General_RockWall_SandBase     0x089
+#define METATILE_General_RoughDeepWater        0x15B
+#define METATILE_General_RoughWater            0x15A
 #define METATILE_General_SandPit_Center        0x121
-#define METATILE_General_SecretBase_TreeLeft   0x038
-#define METATILE_General_SecretBase_TreeRight  0x039
-#define METATILE_General_TallGrass             0x00D
-#define METATILE_General_TallGrass_TreeLeft    0x1C6
-#define METATILE_General_TallGrass_TreeRight   0x1C7
-#define METATILE_General_TallGrass_TreeUp      0x025
-#define METATILE_General_YellowCaveIndent      0x1A8
-#define METATILE_General_YellowCaveOpen        0x07F
+#define METATILE_General_SecretBase_TreeLeft   0x02C
+#define METATILE_General_SecretBase_TreeRight  0x02D
+#define METATILE_General_SecretBase_VineLeft   0x18B
+#define METATILE_General_SecretBase_VineRight  0x182
+#define METATILE_General_TallGrass             0x004
+#define METATILE_General_TallGrass_TreeUp      0x01E
+#define METATILE_General_YellowCaveOpen        0x038
 
 // gTileset_GenericBuilding
 #define METATILE_GenericBuilding_TableEdge               0x2F1
@@ -386,13 +379,19 @@
 #define METATILE_Pacifidlog_SubmergedLogs_VerticalTop          0x25A
 
 // gTileset_Petalburg
-#define METATILE_Petalburg_Door_Littleroot       0x248
-#define METATILE_Petalburg_Door_Oldale           0x287
-#define METATILE_Petalburg_RedCaveOpen           0x2F1
-#define METATILE_Petalburg_SecretBase_VineLeft   0x2F0
-#define METATILE_Petalburg_SecretBase_VineRight  0x2EA
-#define METATILE_Petalburg_routegatedoor         0x277
-#define METATILE_Petalburg_violetgymdoor         0x2B3
+#define METATILE_Petalburg_BlueCaveIndent       0x2EA
+#define METATILE_Petalburg_Door                 0x269
+#define METATILE_Petalburg_Door_Contest         0x2C2
+#define METATILE_Petalburg_Door_Gym             0x233
+#define METATILE_Petalburg_Door_Littleroot      0x297
+#define METATILE_Petalburg_Door_Oldale          0x246
+#define METATILE_Petalburg_MuddySlope_Frame3    0x29B
+#define METATILE_Petalburg_RedCaveIndent        0x2AE
+#define METATILE_Petalburg_TallGrass_TreeLeft   0x2E7
+#define METATILE_Petalburg_TallGrass_TreeRight  0x2CB
+#define METATILE_Petalburg_YellowCaveIndent     0x2B7
+#define METATILE_Petalburg_routegatedoor        0x216
+#define METATILE_Petalburg_violetgymdoor        0x27C
 
 // gTileset_PetalburgGym
 #define METATILE_PetalburgGym_Door                0x224

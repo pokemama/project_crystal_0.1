@@ -1254,6 +1254,10 @@
     {
       "id": "MAPSEC_VIOTLET_CITY",
       "name": "Violet City"
+    },
+    {
+      "id": "MAPSEC_ROUTE_32",
+      "name": "Route 32"
     }
   ]
 }
