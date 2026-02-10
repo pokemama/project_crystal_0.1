@@ -1250,6 +1250,10 @@
     {
       "id": "MAPSEC_ROUTE_31",
       "name": "Route 31"
+    },
+    {
+      "id": "MAPSEC_VIOTLET_CITY",
+      "name": "Violet City"
     }
   ]
 }

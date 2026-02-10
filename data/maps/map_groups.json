@@ -34,7 +34,8 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124",
-    "gMapGroup_Johto_TownsAndRoutes"
+    "gMapGroup_Johto_TownsAndRoutes",
+    "gMapGroup_Johto_IndoorNewBarkTown"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -627,6 +628,8 @@
     "Route29",
     "CherrygroveCity",
     "Route30",
-    "Route31"
-  ]
+    "Route31",
+    "VioletCity"
+  ],
+  "gMapGroup_Johto_IndoorNewBarkTown": []
 }
