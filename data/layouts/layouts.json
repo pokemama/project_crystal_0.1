@@ -4480,6 +4480,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route32/border.bin",
       "blockdata_filepath": "data/layouts/Route32/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNUSEDOCEANROUTE32",
+      "name": "unusedoceanroute32_Layout",
+      "width": 10,
+      "height": 50,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/unusedoceanroute32/border.bin",
+      "blockdata_filepath": "data/layouts/unusedoceanroute32/map.bin"
     }
   ]
 }

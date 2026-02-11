@@ -1071,3 +1071,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/VioletCity/scripts.inc"
 
 	.include "data/maps/Route32/scripts.inc"
+
+	.include "data/maps/unusedoceanroute32/scripts.inc"

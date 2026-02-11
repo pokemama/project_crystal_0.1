@@ -17,6 +17,11 @@
       "map": "MAP_VIOLET_CITY",
       "offset": 3,
       "direction": "up"
+    },
+    {
+      "map": "MAP_UNUSEDOCEANROUTE32",
+      "offset": 42,
+      "direction": "right"
     }
   ],
   "object_events": [],
