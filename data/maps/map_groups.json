@@ -1,6 +1,7 @@
 {
   "group_order": [
     "gMapGroup_Johto_TownsAndRoutes",
+    "gMapGroup_Johto_Caves",
     "gMapGroup_Johto_IndoorNewBarkTown",
     "gMapGroup_Johto_Unused",
     "gMapGroup_Johto_IndoorDynamic",
@@ -15,6 +16,12 @@
     "Route30",
     "Route31",
     "Route32"
+  ],
+  "gMapGroup_Johto_Caves": [
+    "UnionCave",
+    "UnionCaveB1FA",
+    "UnionCaveB1FB",
+    "UnionCaveB2F"
   ],
   "gMapGroup_Johto_IndoorNewBarkTown": [],
   "gMapGroup_Johto_Unused": [

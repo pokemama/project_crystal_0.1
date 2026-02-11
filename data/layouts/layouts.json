@@ -4490,6 +4490,46 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/unusedoceanroute32/border.bin",
       "blockdata_filepath": "data/layouts/unusedoceanroute32/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNION_CAVE",
+      "name": "UnionCave_Layout",
+      "width": 22,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/UnionCave/border.bin",
+      "blockdata_filepath": "data/layouts/UnionCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNION_CAVE_B1FB",
+      "name": "UnionCaveB1FB_Layout",
+      "width": 20,
+      "height": 7,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/UnionCaveB1FB/border.bin",
+      "blockdata_filepath": "data/layouts/UnionCaveB1FB/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNION_CAVE_B1FA",
+      "name": "UnionCaveB1FA_Layout",
+      "width": 20,
+      "height": 25,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/UnionCaveB1FA/border.bin",
+      "blockdata_filepath": "data/layouts/UnionCaveB1FA/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNION_CAVE_B2F",
+      "name": "UnionCaveB2F_Layout",
+      "width": 20,
+      "height": 36,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/UnionCaveB2F/border.bin",
+      "blockdata_filepath": "data/layouts/UnionCaveB2F/map.bin"
     }
   ]
 }

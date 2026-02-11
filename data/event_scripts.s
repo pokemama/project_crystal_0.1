@@ -1073,3 +1073,11 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route32/scripts.inc"
 
 	.include "data/maps/unusedoceanroute32/scripts.inc"
+
+	.include "data/maps/UnionCave/scripts.inc"
+
+	.include "data/maps/UnionCaveB1FA/scripts.inc"
+
+	.include "data/maps/UnionCaveB1FB/scripts.inc"
+
+	.include "data/maps/UnionCaveB2F/scripts.inc"

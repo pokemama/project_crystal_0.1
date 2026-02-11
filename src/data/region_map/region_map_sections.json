@@ -1262,6 +1262,10 @@
     {
       "id": "MAPSEC_UNUSED",
       "name": "Unused"
+    },
+    {
+      "id": "MAPSEC_UNION_CAVE",
+      "name": "Union Cave B2F"
     }
   ]
 }
