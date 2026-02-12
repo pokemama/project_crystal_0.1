@@ -14,7 +14,40 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "UNION CAVE NORTH",
+      "x": 16,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_UNION_CAVE",
+      "dest_warp_id": "0"
+    },
+    {
+      "warp_id": "UNION CAVE SOUTH",
+      "x": 17,
+      "y": 31,
+      "elevation": 0,
+      "dest_map": "MAP_UNION_CAVE",
+      "dest_warp_id": "0"
+    },
+    {
+      "warp_id": "Union Cave 1F Alph",
+      "x": 5,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_UNION_CAVE_B1FA",
+      "dest_warp_id": "Union Cave B1F to Alph"
+    },
+    {
+      "warp_id": "Union Cave 1F to B2F",
+      "x": 3,
+      "y": 33,
+      "elevation": 0,
+      "dest_map": "MAP_UNION_CAVE_B1FB",
+      "dest_warp_id": "0"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }

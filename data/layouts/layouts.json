@@ -4494,7 +4494,7 @@
     {
       "id": "LAYOUT_UNION_CAVE",
       "name": "UnionCave_Layout",
-      "width": 22,
+      "width": 20,
       "height": 35,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",
