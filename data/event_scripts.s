@@ -1085,3 +1085,9 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route33/scripts.inc"
 
 	.include "data/maps/AzaleaTown/scripts.inc"
+
+	.include "data/maps/unusedforest/scripts.inc"
+
+	.include "data/maps/unusedforest_2/scripts.inc"
+
+	.include "data/maps/unusedforest_3/scripts.inc"

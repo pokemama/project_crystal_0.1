@@ -27,7 +27,10 @@
   ],
   "gMapGroup_Johto_IndoorNewBarkTown": [],
   "gMapGroup_Johto_Unused": [
-    "unusedoceanroute32"
+    "unusedoceanroute32",
+    "unusedforest",
+    "unusedforest_2",
+    "unusedforest_3"
   ],
   "gMapGroup_Johto_IndoorDynamic": [
     "TradeCenter",

@@ -4550,6 +4550,36 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/AzaleaTown/border.bin",
       "blockdata_filepath": "data/layouts/AzaleaTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNUSEDFOREST",
+      "name": "unusedforest_Layout",
+      "width": 10,
+      "height": 26,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/unusedforest/border.bin",
+      "blockdata_filepath": "data/layouts/unusedforest/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNUSEDFOREST_2",
+      "name": "unusedforest_2_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/unusedforest_2/border.bin",
+      "blockdata_filepath": "data/layouts/unusedforest_2/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNUSEDFOREST_3",
+      "name": "unusedforest_3_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/unusedforest_3/border.bin",
+      "blockdata_filepath": "data/layouts/unusedforest_3/map.bin"
     }
   ]
 }

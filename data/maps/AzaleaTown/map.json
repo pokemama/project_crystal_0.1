@@ -17,6 +17,21 @@
       "map": "MAP_ROUTE33",
       "offset": 4,
       "direction": "right"
+    },
+    {
+      "map": "MAP_UNUSEDFOREST",
+      "offset": 0,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_UNUSEDFOREST_2",
+      "offset": -7,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_UNUSEDFOREST_3",
+      "offset": -8,
+      "direction": "down"
     }
   ],
   "object_events": [],
