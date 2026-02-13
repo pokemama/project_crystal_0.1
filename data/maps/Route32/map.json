@@ -27,6 +27,7 @@
   "object_events": [],
   "warp_events": [
     {
+      "warp_id": "Route32->UnionCave1F",
       "x": 8,
       "y": 81,
       "elevation": 0,

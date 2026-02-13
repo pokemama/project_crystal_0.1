@@ -16,12 +16,12 @@
   "object_events": [],
   "warp_events": [
     {
-      "warp_id": "Union Cave B1F to Alph",
+      "warp_id": "UnionCaveB1FA->1F",
       "x": 7,
       "y": 19,
       "elevation": 0,
-      "dest_map": "MAP_UNION_CAVE_B1FA",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_UNION_CAVE",
+      "dest_warp_id": "UnionCave 1F->B1FA"
     }
   ],
   "coord_events": [],

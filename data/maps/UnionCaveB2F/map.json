@@ -14,7 +14,16 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "UnionCaveB2F->B1FB",
+      "x": 5,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_UNION_CAVE_B1FB",
+      "dest_warp_id": "0"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }
