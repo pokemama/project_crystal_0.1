@@ -4530,6 +4530,16 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/UnionCaveB2F/border.bin",
       "blockdata_filepath": "data/layouts/UnionCaveB2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE33",
+      "name": "Route33_Layout",
+      "width": 26,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route33/border.bin",
+      "blockdata_filepath": "data/layouts/Route33/map.bin"
     }
   ]
 }

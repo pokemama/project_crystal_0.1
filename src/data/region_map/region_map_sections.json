@@ -1266,6 +1266,10 @@
     {
       "id": "MAPSEC_UNION_CAVE",
       "name": "Union Cave B2F"
+    },
+    {
+      "id": "MAPSEC_ROUTE_33",
+      "name": "Route 33"
     }
   ]
 }

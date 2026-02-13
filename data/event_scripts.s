@@ -1081,3 +1081,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/UnionCaveB1FB/scripts.inc"
 
 	.include "data/maps/UnionCaveB2F/scripts.inc"
+
+	.include "data/maps/Route33/scripts.inc"
