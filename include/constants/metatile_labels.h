@@ -226,8 +226,6 @@
 #define METATILE_General_RoughDeepWater        0x15B
 #define METATILE_General_RoughWater            0x15A
 #define METATILE_General_SandPit_Center        0x121
-#define METATILE_General_SecretBase_TreeLeft   0x02C
-#define METATILE_General_SecretBase_TreeRight  0x02D
 #define METATILE_General_SecretBase_VineLeft   0x18B
 #define METATILE_General_SecretBase_VineRight  0x182
 #define METATILE_General_TallGrass             0x004
@@ -379,7 +377,6 @@
 #define METATILE_Pacifidlog_SubmergedLogs_VerticalTop          0x25A
 
 // gTileset_Petalburg
-#define METATILE_Petalburg_BlueCaveIndent       0x2EA
 #define METATILE_Petalburg_Door                 0x269
 #define METATILE_Petalburg_Door_Contest         0x2C2
 #define METATILE_Petalburg_Door_Gym             0x233

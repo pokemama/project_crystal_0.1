@@ -1270,6 +1270,10 @@
     {
       "id": "MAPSEC_ROUTE_33",
       "name": "Route 33"
+    },
+    {
+      "id": "MAPSEC_AZALEA_TOWN",
+      "name": "Azalea Town"
     }
   ]
 }
