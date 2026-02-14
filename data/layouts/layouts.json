@@ -4580,6 +4580,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/unusedforest_3/border.bin",
       "blockdata_filepath": "data/layouts/unusedforest_3/map.bin"
+    },
+    {
+      "id": "LAYOUT_ILEX_FOREST",
+      "name": "IlexForest_Layout",
+      "width": 34,
+      "height": 48,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/IlexForest/border.bin",
+      "blockdata_filepath": "data/layouts/IlexForest/map.bin"
     }
   ]
 }

@@ -1274,6 +1274,10 @@
     {
       "id": "MAPSEC_AZALEA_TOWN",
       "name": "Azalea Town"
+    },
+    {
+      "id": "MAPSEC_ILEX_FOREST",
+      "name": "Ilex Forest"
     }
   ]
 }

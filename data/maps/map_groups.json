@@ -1,29 +1,31 @@
 {
   "group_order": [
     "gMapGroup_Johto_TownsAndRoutes",
-    "gMapGroup_Johto_Caves",
+    "gMapGroup_Johto_Caves_and_Forests",
     "gMapGroup_Johto_IndoorNewBarkTown",
     "gMapGroup_Johto_Unused",
     "gMapGroup_Johto_IndoorDynamic",
     "gMapGroup_Johto_SpecialArea",
-    "gMapGroup_Unused_Hoenn_Maps"
+    "gMapGroup_Unused_Hoenn_Maps",
+    "gMapGroup_Johto_Caves_and_Forests"
   ],
   "gMapGroup_Johto_TownsAndRoutes": [
     "NewBarkTown",
     "CherrygroveCity",
     "VioletCity",
+    "AzaleaTown",
     "Route29",
     "Route30",
     "Route31",
     "Route32",
-    "Route33",
-    "AzaleaTown"
+    "Route33"
   ],
-  "gMapGroup_Johto_Caves": [
+  "gMapGroup_Johto_Caves_and_Forests": [
     "UnionCave",
     "UnionCaveB1FA",
     "UnionCaveB1FB",
-    "UnionCaveB2F"
+    "UnionCaveB2F",
+    "IlexForest"
   ],
   "gMapGroup_Johto_IndoorNewBarkTown": [],
   "gMapGroup_Johto_Unused": [
