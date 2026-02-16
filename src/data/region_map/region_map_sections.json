@@ -1282,6 +1282,10 @@
     {
       "id": "MAPSEC_ROUTE_34",
       "name": "Route 34"
+    },
+    {
+      "id": "MAPSEC_GOLDENROD_CITY",
+      "name": "Goldenrod City"
     }
   ]
 }

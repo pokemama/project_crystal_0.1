@@ -4600,6 +4600,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route34/border.bin",
       "blockdata_filepath": "data/layouts/Route34/map.bin"
+    },
+    {
+      "id": "LAYOUT_GOLDENROD_CITY",
+      "name": "GoldenrodCity_Layout",
+      "width": 38,
+      "height": 44,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/GoldenrodCity/border.bin",
+      "blockdata_filepath": "data/layouts/GoldenrodCity/map.bin"
     }
   ]
 }
