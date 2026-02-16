@@ -215,9 +215,7 @@
 #define METATILE_General_Grass_TreeRight       0x1B2
 #define METATILE_General_Grass_TreeUp          0x006
 #define METATILE_General_LongGrass             0x036
-#define METATILE_General_MuddySlope_Frame0     0x1D0
-#define METATILE_General_MuddySlope_Frame1     0x1D1
-#define METATILE_General_MuddySlope_Frame2     0x1D2
+#define METATILE_General_MuddySlope_Frame2     0x166
 #define METATILE_General_RedCaveOpen           0x18C
 #define METATILE_General_ReflectiveWater       0x0D9
 #define METATILE_General_RockWall_GrassBase    0x059
@@ -231,6 +229,7 @@
 #define METATILE_General_TallGrass             0x004
 #define METATILE_General_TallGrass_TreeUp      0x01E
 #define METATILE_General_YellowCaveOpen        0x038
+#define METATILE_General_routegatedoor         0x1DC
 
 // gTileset_GenericBuilding
 #define METATILE_GenericBuilding_TableEdge               0x2F1
@@ -382,12 +381,13 @@
 #define METATILE_Petalburg_Door_Gym             0x233
 #define METATILE_Petalburg_Door_Littleroot      0x297
 #define METATILE_Petalburg_Door_Oldale          0x246
+#define METATILE_Petalburg_MuddySlope_Frame0    0x20A
+#define METATILE_Petalburg_MuddySlope_Frame1    0x20B
 #define METATILE_Petalburg_MuddySlope_Frame3    0x29B
 #define METATILE_Petalburg_RedCaveIndent        0x2AE
 #define METATILE_Petalburg_TallGrass_TreeLeft   0x2E7
 #define METATILE_Petalburg_TallGrass_TreeRight  0x2CB
 #define METATILE_Petalburg_YellowCaveIndent     0x2B7
-#define METATILE_Petalburg_routegatedoor        0x216
 #define METATILE_Petalburg_violetgymdoor        0x27C
 
 // gTileset_PetalburgGym

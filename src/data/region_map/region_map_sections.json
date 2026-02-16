@@ -1278,6 +1278,10 @@
     {
       "id": "MAPSEC_ILEX_FOREST",
       "name": "Ilex Forest"
+    },
+    {
+      "id": "MAPSEC_ROUTE_34",
+      "name": "Route 34"
     }
   ]
 }

@@ -1093,3 +1093,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/unusedforest_3/scripts.inc"
 
 	.include "data/maps/IlexForest/scripts.inc"
+
+	.include "data/maps/Route34/scripts.inc"
